@@ -1,0 +1,41 @@
+body {
+	font-family: "Raleway";
+	background-color: #E0F6F7;
+	border-color: #006699;
+	color: #006699;
+	padding: 15px;
+	padding-top: 20px;
+}
+
+h2	{
+	font-family: "Raleway";
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	padding-bottom: 5px;
+}
+
+.tool-box {
+	border: 2px solid #006699;
+	background-color: white;
+	text-align:center;
+	margin-bottom: 15px
+}
+
+.tool-logo {
+	margin: auto 25px auto 25px;
+}
+
+.tool-name {
+	font-size: 0.8rem;
+	font-weight: "800";
+}
+
+.tool-link,
+.tool-link:visited {
+	text-decoration: none;
+	color: #006699;
+}
+
+.img-thumbnail {
+	border: none;
+}
